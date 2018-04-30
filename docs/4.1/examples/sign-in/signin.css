@@ -7,13 +7,7 @@ body {
   display: -ms-flexbox;
   display: flex;
   -ms-flex-align: center;
-<<<<<<< HEAD:docs/4.0/examples/sign-in/signin.css
-  -ms-flex-pack: center;
   align-items: center;
-  justify-content: center;
-=======
-  align-items: center;
->>>>>>> upstream/v4-dev:docs/4.1/examples/sign-in/signin.css
   padding-top: 40px;
   padding-bottom: 40px;
   background-color: #f5f5f5;

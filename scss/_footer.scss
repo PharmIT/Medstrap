@@ -1,0 +1,16 @@
+footer,
+.footer {
+  width: 100%;
+  color: $footer-color;
+  background-color: $footer-bg-color;
+}
+
+.footer-sub {
+  width: 100%;
+  color: $footer-sub-color;
+  background-color: $footer-sub-bg-color;
+
+  a {
+    color: inherit;
+  }
+}

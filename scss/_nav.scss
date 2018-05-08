@@ -74,6 +74,10 @@
 .nav-pills {
   .nav-link {
     @include border-radius($nav-pills-border-radius);
+    color: $nav-pills-link-color;
+  }
+  .nav-link:hover {
+    color: $nav-pills-link-hover-color;
   }
 
   .nav-link.active,
